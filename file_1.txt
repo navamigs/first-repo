@@ -1,2 +1,13 @@
-thank you 
-welcome
+To create dir  ->  mkdir dir_name
+To getin to that dir ->  cd dir_name
+To create file ->  touch file_name.ext
+To add that file -> git add file_name.ext
+For status -> git status
+For commit-> git commit -m "name for commit"
+For adding remote repo to local repo -> git remote add origin "paste ssh"
+To pull -> git pull origin master
+To push->git push origin master 
+
+
+
+Thank you 
