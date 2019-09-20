@@ -5,4 +5,4 @@ ssh -T git@github.com.
 
 for pull --->
 git pull origin master.
-if that command is not working use this command--> git pull origin master --allow-unrelated-histories.
+if that cmd is not working use this cmd--> git pull origin master --allow-unrelated-histories.
