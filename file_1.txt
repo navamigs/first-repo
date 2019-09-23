@@ -7,7 +7,9 @@ For commit-> git commit -m "name for commit"
 For adding remote repo to local repo -> git remote add origin "paste ssh"
 To pull -> git pull origin master
 To push->git push origin master 
-
+To clone -> git clone
+To add multiple files->git add  -A
+For multiple commit-> git add -a -m "msge"
 
 
 Thank you 
