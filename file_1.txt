@@ -10,6 +10,15 @@ To push->git push origin master
 To clone -> git clone
 To add multiple files->git add  -A
 For multiple commit-> git add -a -m "msge"
+-----------------------------------------------
+for branching merging and rebase
+for branching -> git branch <branch name>
+for switching from master to separate branch -> git checkout <branch name>
+for merging -> git merge <branch name>
+fir rebase -> git rebase master
+              git rebase <branch name>
+              
+
 
 
 Thank you 
